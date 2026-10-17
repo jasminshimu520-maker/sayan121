@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📱 Smart Task & Email Reminder App
 
 > **Cross-Platform Progressive Web App (PWA) & Native Android App (Capacitor)** with an automated **3-Day Consecutive Gmail Notification System** (`node-cron` & `nodemailer`).
@@ -232,3 +233,9 @@ Transfer this `.apk` file to your Android phone and install it directly!
 - [x] "Run Reminder Check" button for manual scheduler sweeps
 - [x] Capacitor Android native project configured and synced
 - [x] Automated E2E verification test suite passing 100%
+=======
+# asdfgh
+fghdrshthgfh
+>>>>>>> 3dd04d9ba1b7ef469764adcd9b61d8ebd173fc79
+#   a s d a c f s d f e r e r h g h t u  
+ 
