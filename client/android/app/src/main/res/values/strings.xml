@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Smart Task Reminder</string>
+    <string name="title_activity_main">Smart Task Reminder</string>
+    <string name="package_name">com.smartreminder.taskapp</string>
+    <string name="custom_url_scheme">com.smartreminder.taskapp</string>
+</resources>

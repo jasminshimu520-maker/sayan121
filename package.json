@@ -1,0 +1,24 @@
+{
+  "name": "smart-task-reminder-app",
+  "version": "1.0.0",
+  "description": "Smart Task & Email Reminder App - Web, PWA & Android APK Ready",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev:server": "node --watch server/server.js",
+    "dev:client": "npm --prefix client run dev",
+    "build:client": "npm --prefix client run build",
+    "cap:sync": "npm --prefix client run build && cd client && npx cap sync",
+    "cap:open": "cd client && npx cap open android",
+    "test:e2e": "node test_e2e.js"
+  },
+  "keywords": [
+    "pwa",
+    "capacitor",
+    "task-scheduler",
+    "gmail-reminders",
+    "cron-scheduler",
+    "cross-platform"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}
