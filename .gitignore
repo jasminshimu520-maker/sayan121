@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+server/node_modules/
+client/node_modules/
+
+# Environment files with sensitive credentials
+.env
+server/.env
+*.env.local
+
+# Database & runtime files
+*.db
+*.db-shm
+*.db-wal
+server/reminder_app.db*
+*.log
+npm-debug.log*
+
+# Build artifacts
+dist/
+client/dist/
+
+# Android build directories
+client/android/.gradle/
+client/android/build/
+client/android/app/build/
+
+# Operating system & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
